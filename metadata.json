@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Prompt Optimizer",
+  "description": "An intelligent platform to help users refine and optimize their prompts for large language models using the Gemini API, enhancing clarity, specificity, and effectiveness.",
+  "requestFramePermissions": []
+}
