@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered platform that combines intelligent prompt optimization with multi-modal AI content generation. Transform your ideas into optimized prompts and generate images, videos, voice, and music using cutting-edge AI technologies.
 
+**Live Demo:** [https://text-to-image-green.vercel.app/](https://text-to-image-green.vercel.app/)
+
 ## Features
 
 ### Intelligent Prompt Optimizer
